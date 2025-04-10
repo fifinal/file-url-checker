@@ -24,8 +24,8 @@
 
 1. **Clone repositori ini**
    ```bash
-   git clone https://github.com/fifinal/cek_url_exist.git
-   cd cek_url_exist
+   git clone https://github.com/fifinal/file-url-checker.git
+   cd file-url-checker
    ```
 
 2. **Inisialisasi proyek dan install dependensi**
