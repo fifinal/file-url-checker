@@ -6,7 +6,7 @@
 
 ## ✨ Fitur
 
-- Membaca data dari file `data.json`
+- Membaca data dari file `file_url.json`
 - Mengecek apakah file di setiap URL tersedia
 - Pembatasan concurrency menggunakan [`p-limit`](https://www.npmjs.com/package/p-limit)
 - Menyimpan hasil pengecekan ke file `results.json`
